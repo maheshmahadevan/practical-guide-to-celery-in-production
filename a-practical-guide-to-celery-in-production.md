@@ -1,20 +1,6 @@
 # A Practical Guide to Celery in Production
 *By Mahesh Mahadevan, Principal Software Engineer*
 
-This was my talk at PyCon India 2024 at Bengaluru Nimhans Convention Center on 21st Sept 2024.
-
-**Link to the Proposal** - https://in.pycon.org//cfp/2024/proposals/practical-guide-to-celery-in-production~aADMO/
-
-**YouTube** - https://www.youtube.com/watch?v=S931rE_BKZs
-
-**Slides** - Practical Guide to Celery in Production - Slides.pdf
-
-**Transcript Summary** - summarized_transcript.md
-
-**Transcript** - transcript.txt
-
-Blog - 
-
 ---
 
 ## Overview
@@ -151,5 +137,3 @@ By combining **SQS**, **Auto Scaling**, **predictive capacity**, and **custom mo
 ---
 
 2025 Mahesh Mahadevan — A Practical Guide to Celery in Production*
-
-
