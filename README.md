@@ -1,19 +1,18 @@
 # A Practical Guide to Celery in Production
-*By Mahesh Mahadevan, Principal Software Engineer*
 
-This was my talk at PyCon India 2024 at Bengaluru Nimhans Convention Center on 21st Sept 2024.
+This was my talk at PyCon India 2024 at Bengaluru,  Nimhans Convention Center on 21st Sept 2024.
 
 **Link to the Proposal** - https://in.pycon.org//cfp/2024/proposals/practical-guide-to-celery-in-production~aADMO/
 
 **YouTube** - https://www.youtube.com/watch?v=S931rE_BKZs
 
-**Slides** - Practical Guide to Celery in Production - Slides.pdf
+**Slides** - [Drive](https://docs.google.com/presentation/d/1A9rem8PyqN_weS2Ur7XSoUH7yoZ3XcXx/edit?slide=id.p1#slide=id.p1) [Github](Practical%20Guide%20to%20Celery%20in%20Production%20-%20Slides.pptx)
 
-**Transcript Summary** - summarized_transcript.md
+**Transcript Summary** - [transcript_summary.md](transcript_summary.md)
 
-**Transcript** - transcript.txt
+**Transcript** - [transcript.txt](transcript.txt)
 
-Blog - 
+**Blog** - Coming soon...
 
 ---
 
@@ -67,12 +66,12 @@ To process large volumes of audio, video, and analytics tasks, we rely heavily o
 
 | Metric | Value |
 |---------|--------|
-| Celery tasks | 150 + |
-| Queues | 50 |
-| Auto Scaling Groups | 50 |
+| Celery tasks | 200 + |
+| Queues | 70 |
+| Auto Scaling Groups | 70 |
 | Peak queue depth | 20 000 + messages |
-| Active workers | 100 – 300 |
-| Daily throughput | 10 K – 1 M tasks |
+| Active workers | 100 – 500 |
+| Daily throughput | over 1 M tasks |
 
 ---
 
